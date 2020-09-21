@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=altuntasfth" alt="altuntasfth" /> </p>
 
-- 🌱 I’m currently learning **Game Development for Modern Platforms**
+- 🌱 I’m currently developing my personal 2D Platformer Game.
 
 - 📫 How to reach me **fatihaltuntas44@gmail.com**
 
