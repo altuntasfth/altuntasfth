@@ -19,6 +19,6 @@
 <p align="center">
 <a href="https://twitter.com/altuntasfth" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="altuntasfth" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/altuntasfth" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="altuntasfth" height="30" width="30" /></a>
-<a href="https://instagram.com/@fth.altuntas" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="@fth.altuntas" height="30" width="30" /></a>
+<a href="https://www.instagram.com/fth.altuntas/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="@fth.altuntas" height="30" width="30" /></a>
 <a href="https://medium.com/@altuntasfth" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@altuntasfth" height="30" width="30" /></a>
 </p>
