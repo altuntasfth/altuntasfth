@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fatih</h1>
 <h3 align="center">A passionate game developer from Turkey</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=altuntasfth" alt="altuntasfth" /> </p>
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=altuntasfth&show_icons=true&theme=radical">
 <h4 align="left">🌱 I’m currently developing my personal 2D Platformer Game. </h4>
