@@ -3,7 +3,7 @@
 
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=altuntasfth&show_icons=true&theme=radical">
-<h4 align="left">🌱 I’m currently developing Tetris Clone. </h4>
+
 <h4 align="left">📫 How to reach me **fatihaltuntas44@gmail.com**</h4>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=altuntasfth" alt="altuntasfth" /> </p>
 
